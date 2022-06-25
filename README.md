@@ -29,6 +29,6 @@
 
 <div>
   <a href="https://github.com/gjanuario">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gjanuario&count_private=true&show_icons=true&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjanuario&layout=compact&theme=algolia" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gjanuario&count_private=true&show_icons=true&theme=algolia" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gjanuario&layout=compact&theme=algolia" />
 </div>
