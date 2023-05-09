@@ -1,11 +1,10 @@
 ### Hey there, I'm Gabriel Januário!
 
-- 👨‍💻 Right now I'm working with Node.js, using TypeScript (and learning a lot of both!)
-- 📚 I have background on:
-  - Java (Spring Framework)
-  - React.js + Next.js
-  - HTML5
-  - CCS3
+- 👨‍💻 Right now I'm working with Angular
+- 📚 I have background on Web development, mostly with:
+  - Node.js and React.js (Typescript fan!)
+  - Angular
+  - Web 3.0 (Ethereum)
 - 📫 You can reach me/get more info at:
   <div>
     <a href="mailto:gabrielojc@gmail.com" target="_blank">
@@ -21,10 +20,12 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
+                    
 </div><br>
 
 <div>
