@@ -8,6 +8,8 @@
   - Back-end: mostly Java with Spring, but also worked with Node.js
   - Also had a very cool experience integrating web applications to blockchain (Web 3.0)
 
+  <br>
+
   <div style="display: inline_block">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
@@ -22,7 +24,9 @@
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  </div> <br
+  </div>
+
+  <br>
 
 - Get more info/reach me at:
   <div>
