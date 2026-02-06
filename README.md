@@ -26,8 +26,6 @@
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </div>
 
-  <br>
-
 - Get more info/reach me at:
   <div>
     <a href="https://www.linkedin.com/in/gojanuario" target="_blank">
